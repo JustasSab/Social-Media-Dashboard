@@ -1,7 +1,7 @@
-# Social-Media-Dashboard
-    ```md
-    ![Social Media Dashboard](design/desktop-preview.jpg)
-    ```
+# Social Media Dashboard
+
+ ![Social Media Dashboard preview](design/desktop-preview.jpg)
+
 ## About The Project
 Simple Social Media Dashboard with theme switcher.
 
